@@ -1,5 +1,7 @@
 <Div align="center" >
 
+<img align="center" src="/docs/ClaudiaCBS.jpg" alt="Foto de perfil" width="200"/>
+
 # Cláudia de Carlos Braga Secco
 
 </Div>
@@ -7,8 +9,6 @@
 ## Introdução
 
 <Div align="justify" >
-
-<img align="right" src="/docs/ClaudiaCBS.jpg" alt="Foto de perfil" width="200"/>
 
 Olá, meu nome é Claudia Secco, e atualmente estou no 5º semestre do curso de Tecnólogo em Análise e Desenvolvimento de Sistemas na FATEC Prof. Jessen Vidal em São José dos Campos. Meu primeiro contato com a área de tecnologia ocorreu em 2018, durante uma atividade na biblioteca de Ann Arbor, Michigan - EUA, onde aprendi a programar em Python utilizando um Raspberry Pi.
 
@@ -95,11 +95,9 @@ No 4º semestre da faculdade, cursei a disciplina de Metodologia de Pesquisa, mi
 
 ## Projetos
 
-<div name="1sem"></div>
+<details><summary><h3>Primeiro Semestre (2022-2)</h3></summary>
 
-### Primeiro Semestre (2022-2)
-
-<Div align="justify" >
+  <Div align="justify" >
 
 > [Link para a API do 1º Semestre](https://github.com/ClaudiaCBS/API_01_SEMESTE)
 
@@ -109,13 +107,13 @@ Para o gerenciamento eficiente do projeto, utilizamos um repositório no GitHub,
 
 No aspecto técnico, foram utilizadas linguagens como Python e JavaScript, além de tecnologias web como HTML5 e CSS3. O desenvolvimento foi suportado pelos frameworks Flask e Bootstrap, que facilitaram a construção e estilização da aplicação.
 
-</Div>
+  </Div>
 
 ### Tecnologias utilizadas
 
-<br>
+  <br>
    
-<img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/> Figma
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/> Figma
 
 > Utilizado para desenvolver o protótipo apresentado ao cliente.
 
@@ -143,11 +141,11 @@ No aspecto técnico, foram utilizadas linguagens como Python e JavaScript, além
 
 > Utilizamos JavaScript para implementar a funcionalidade de layout editável dos laboratórios, permitindo que os usuários ajustem a disposição dos equipamentos e identifiquem visualmente os locais com defeitos de hardware ou software de forma interativa.
 
-</br>
+  </br>
 
 ### Contribuições
 
-<Div align="justify" >
+  <Div align="justify" >
 
 Neste projeto, integrei o time de desenvolvimento back-end, onde criei funções para atualizar as especificações dos computadores em uma determinada sala. Minha contribuição foi integrá-la à interface HTML, permitindo que os usuários possam modificar informações como o sistema operacional, o processador e a memória RAM diretamente na página web.
 
@@ -155,22 +153,80 @@ Neste projeto, integrei o time de desenvolvimento back-end, onde criei funções
 
 - Desenvolvimento WEB (Utilizando SQL e Python)
 
-  > Sei fazer com autonomia.
+> Sei fazer com autonomia.
 
 - Controle de versionamento (GIT e GITHUB)
 
-  > Sei fazer com autonomia.
+> Sei fazer com autonomia.
 
 ### Soft Skills
 
 - Organização
 
-  > Desenvolvida ao dividir e gerenciar minhas responsabilidades no projeto, como a segmentação das tarefas de back-end. Utilizando a metodologia Scrum, os trabalhos em equipe foram organizados em sprints, permitindo uma gestão mais eficiente do tempo e das atividades.
+> Desenvolvida ao dividir e gerenciar minhas responsabilidades no projeto, como a segmentação das tarefas de back-end. Utilizando a metodologia Scrum, os trabalhos em equipe foram organizados em sprints, permitindo uma gestão mais eficiente do tempo e das atividades.
 
 - Comunicação
 
-  > Fortalecida durante as reuniões diárias da equipe, com a divisão de tarefas, alinhamentos e colaboração contínua entre os membros.
+> Fortalecida durante as reuniões diárias da equipe, com a divisão de tarefas, alinhamentos e colaboração contínua entre os membros.
 
 - Trabalho em equipe
 
-  > Aperfeiçoada pela habilidade de colaborar efetivamente com minhas entregas e auxiliar meus colegas durante a execução do projeto.
+> Aperfeiçoada pela habilidade de colaborar efetivamente com minhas entregas e auxiliar meus colegas durante a execução do projeto.
+
+</details>
+
+<details><summary><h3>Segundo Semestre (2023-1)</h3></summary>
+
+  <Div align="justify" >
+
+> [Link para a API do 2º Semestre](https://github.com/ClaudiaCBS/API_02_SEMESTE)
+
+No 2º semestre do curso...
+
+  </Div>
+
+### Tecnologias utilizadas
+
+</details>
+
+<details><summary><h3>Terceiro Semestre (2023-2)</h3></summary>
+
+  <Div align="justify" >
+
+> [Link para a API do 3º Semestre](https://github.com/ClaudiaCBS/API_03_SEMESTE)
+
+No 3º semestre do curso...
+
+  </Div>
+
+### Tecnologias utilizadas
+
+</details>
+
+<details><summary><h3>Quarto Semestre (2024-1)</h3></summary>
+
+  <Div align="justify" >
+
+> [Link para a API do 4º Semestre](https://github.com/ClaudiaCBS/API_04_SEMESTE)
+
+No 4º semestre do curso...
+
+  </Div>
+
+### Tecnologias utilizadas
+
+</details>
+
+<details><summary><h3>Quinto Semestre (2024-2)</h3></summary>
+
+  <Div align="justify" >
+
+> [Link para a API do 5º Semestre](https://github.com/ClaudiaCBS/API_05_SEMESTE)
+
+No 5º semestre do curso...
+
+  </Div>
+
+### Tecnologias utilizadas
+
+</details>
