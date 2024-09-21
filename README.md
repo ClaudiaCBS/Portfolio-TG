@@ -10,11 +10,13 @@
 
 <img align="right" src="/docs/ClaudiaCBS.jpg" alt="Foto de perfil" width="200"/>
 
-Olá, meu nome é Claudia Secco, e atualmente estou no 5º semestre do curso de Tecnólogo em Análise e Desenvolvimento de Sistemas na Fatec Prof. Jessen Vidal em São José dos Campos. Meu primeiro contato com a área de tecnologia ocorreu em 2018, durante uma atividade na biblioteca de Ann Arbor, Michigan - EUA, onde aprendi a programar em Python utilizando um Raspberry Pi.
+Olá, meu nome é Claudia Secco, e atualmente estou no 5º semestre do curso de Tecnólogo em Análise e Desenvolvimento de Sistemas na FATEC Prof. Jessen Vidal em São José dos Campos. Meu primeiro contato com a área de tecnologia ocorreu em 2018, durante uma atividade na biblioteca de Ann Arbor, Michigan - EUA, onde aprendi a programar em Python utilizando um Raspberry Pi.
 
 Em junho de 2022, participei do programa "Meninas Programadoras", promovido pela USP, o que despertou ainda mais meu interesse por tecnologia e me motivou a ingressar na FATEC no segundo semestre do mesmo ano.
 
-No 3º semestre da faculdade, iniciei atividades extracurriculares no ensino superior por meio de uma bolsa de iniciação científica no INPE (Instituto Nacional de Pesquisas Espaciais), onde tive a oportunidade de participar de um curso de Programação para Sensoriamento Remoto com Python, no qual desenvolvi códigos para análise de dados ambientais, focando em modelos de regressão linear para identificar relações entre variáveis ambientais e em análises de qualidade da água. Além disso, converti rotinas de processamento de dados escritas em MATLAB para Python. Este projeto foi fundamental para adaptar ferramentas avançadas a um ambiente de código aberto, promovendo acessibilidade e inovação científica. Durante esse período, também apliquei as heurísticas de usabilidade de Jakob Nielsen para melhorar a experiência dos cientistas do INPE, desenvolvendo uma interface mais amigável para a disponibilização de artigos científicos.
+No 3º semestre da faculdade, iniciei atividades extracurriculares no ensino superior por meio de uma bolsa de iniciação científica no Instituto Nacional de Pesquisas Espaciais (INPE), onde tive a oportunidade de participar de um curso de Programação para Sensoriamento Remoto com Python, no qual desenvolvi códigos para análise de dados ambientais, focando em modelos de regressão linear para identificar relações entre variáveis ambientais e em análises de qualidade da água. Além disso, converti rotinas de processamento de dados escritas em R e MATLAB para Python. Este projeto foi fundamental para adaptar ferramentas avançadas a um ambiente de código aberto, promovendo acessibilidade e inovação científica. Durante esse período, também apliquei as heurísticas de usabilidade de Jakob Nielsen para melhorar a experiência dos cientistas do INPE, desenvolvendo uma interface mais amigável para a disponibilização de artigos científicos.
+
+No 4º semestre da faculdade, cursei a disciplina de Metodologia de Pesquisa, ministrada pelo Professor Dr. Joares Lindovino dos Reis, onde tive a oportunidade de aplicar técnicas de desenvolvimento de pesquisa em um trabalho acadêmico realizado em colaboração com o Instituto Tecnológico de Aeronáutica (ITA), sob a orientação do Professor Fernando Masanori Ashikaga. Esse projeto envolveu a análise de um banco de dados de pesos de aeronaves utilizando Python, com o objetivo de aprimorar as técnicas de estimativa de peso vazio aplicáveis ao projeto conceitual desses veículos. Os resultados do estudo passaram a ser aplicados nas aulas de projeto de aeronaves no ITA.
 
 </Div>
 
@@ -33,11 +35,11 @@ No 3º semestre da faculdade, iniciei atividades extracurriculares no ensino sup
 
 <hr />
 
-## Principais conhecimentos
+## :pencil: Principais conhecimentos
 
 <br />
 
-**Linguagens**
+### **Linguagens**
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -45,22 +47,33 @@ No 3º semestre da faculdade, iniciei atividades extracurriculares no ensino sup
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-**Frameworks e Bibliotecas**
+### **Frameworks e Bibliotecas**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**Banco de Dados**
+### **Banco de Dados**
 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Ferramentas de Design e Gestão**
+### **Ferramentas de Design e Gestão**
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
 <br>
+
+---
+
+## :card_file_box: Cursos
+
+| Curso                              | Plataforma                                                                                                                 | Status       |
+| :--------------------------------- | :------------------------------------------------------------------------------------------------------------------------- | :----------- |
+| AWS Academy Cloud Foundations      | ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)                  | Concluído    |
+| Introduction to MongoDB            | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)            | Em Andamento |
+| Google Cloud Computing Foundations | ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)    | Em Andamento |
+| MongoDB Node.js Developer Path     | ![MongoDB University](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) | Em Andamento |
 
 ---
 
@@ -78,6 +91,8 @@ No 3º semestre da faculdade, iniciei atividades extracurriculares no ensino sup
 
 ---
 
+<br>
+
 ## Projetos
 
 <div name="1sem"></div>
@@ -88,7 +103,7 @@ No 3º semestre da faculdade, iniciei atividades extracurriculares no ensino sup
 
 > [Link para a API do 1º Semestre](https://github.com/ClaudiaCBS/API_01_SEMESTE)
 
-No 1º semestre do curso, desenvolvemos um projeto em parceria com o professor Antonio Egydio São Thiago Graça da FATEC, atuando como cliente interno. O objetivo foi criar um sistema web para o Controle de Ordens de Serviço, automatizando o processo de registro de equipamentos com problemas de hardware e/ou software. O sistema também incluiu a criação de um mapa de localização (layout) com uma legenda para identificar possíveis defeitos.
+No 1º semestre do curso, desenvolvemos um projeto em parceria com o Professor Antonio Egydio São Thiago Graça da FATEC, atuando como cliente interno. O objetivo foi criar um sistema web para o Controle de Ordens de Serviço, automatizando o processo de registro de equipamentos com problemas de hardware e/ou software. O sistema também incluiu a criação de um mapa de localização (layout) com uma legenda para identificar possíveis defeitos.
 
 Para o gerenciamento eficiente do projeto, utilizamos um repositório no GitHub, o que permitiu o controle de versionamento e o acompanhamento colaborativo do desenvolvimento.
 
@@ -136,7 +151,7 @@ No aspecto técnico, foram utilizadas linguagens como Python e JavaScript, além
 
 Neste projeto, integrei o time de desenvolvimento back-end, onde criei funções para atualizar as especificações dos computadores em uma determinada sala. Minha contribuição foi integrá-la à interface HTML, permitindo que os usuários possam modificar informações como o sistema operacional, o processador e a memória RAM diretamente na página web.
 
-### Hard skills
+### Hard Skills
 
 - Desenvolvimento WEB (Utilizando SQL e Python)
 
@@ -146,7 +161,7 @@ Neste projeto, integrei o time de desenvolvimento back-end, onde criei funções
 
   > Sei fazer com autonomia.
 
-### Soft skills
+### Soft Skills
 
 - Organização
 
