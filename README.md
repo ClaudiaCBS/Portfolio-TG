@@ -68,11 +68,12 @@ No 4º semestre da faculdade, cursei a disciplina de Metodologia de Pesquisa, mi
 
 ## :card_file_box: Cursos
 
-| Curso                              | Plataforma                                                                                                              | Status       |
-| :--------------------------------- | :---------------------------------------------------------------------------------------------------------------------- | :----------- |
-| AWS Academy Cloud Foundations      | ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)               | Concluído    |
-| Introduction to MongoDB            | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)         | Em Andamento |
-| Google Cloud Computing Foundations | ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) | Em Andamento |
+| Curso                                 | Plataforma                                                                                 | Status       |
+| :------------------------------------ | :----------------------------------------------------------------------------------------- | :----------- |
+| Essentials - PC Hardware and Software | [Networking Academy CISCO](https://www.netacad.com/courses/it-essentials?courseLang=en-US) | Concluído    |
+| AWS Academy Cloud Foundations         | [AWS Academy](https://aws.amazon.com/pt/training/awsacademy/)                              | Concluído    |
+| Introduction to MongoDB               | [MongoDB](https://learn.mongodb.com/learning-paths/introduction-to-mongodb)                | Em Andamento |
+| Google Cloud Computing Foundations    | [Google Cloud Skills Boost](https://www.cloudskillsboost.google/)                          | Em Andamento |
 
 ---
 
@@ -96,7 +97,7 @@ No 4º semestre da faculdade, cursei a disciplina de Metodologia de Pesquisa, mi
 
 <div name="1sem"></div>
 
-### Em 2022-2
+### Primeiro Semestre (2022-2)
 
 <Div align="justify" >
 
