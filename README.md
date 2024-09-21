@@ -221,7 +221,7 @@ No 4º semestre do curso...
 
   <Div align="justify" >
 
-> [Link para a API do 5º Semestre](https://github.com/ClaudiaCBS/API_05_SEMESTE)
+> [Link para a API do 5º Semestre](https://github.com/m-u-l-a-s/ClimaMonitor)
 
 No 5º semestre do curso...
 
