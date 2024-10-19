@@ -203,7 +203,7 @@ No aspecto técnico, utilizamos Java para a implementação das funcionalidades 
 
 > Utilizamos Java para a criação do programa desktop.
 
-<img src="/docs/netbeans.svg/" alt="Foto do Perfil" width="100 rem"/> Apache NetBeans
+<img src="/docs/netbeans.png/" alt="Foto do Perfil" width="100 rem"/> Apache NetBeans
 
 > Utilizado Apache NetBeans como IDE para o desenvolvimento do código de todo o projeto.
 
