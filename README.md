@@ -203,7 +203,7 @@ No aspecto técnico, utilizamos Java para a implementação das funcionalidades 
 
 > Utilizamos Java para a criação do programa desktop.
 
-<img width="50 rem" src="/docs/NetBeans-Logo.svg/ alt="NetBeans" /> Apache NetBeans
+<img src="/docs/netbeans.svg/" alt="Foto do Perfil" width="50 rem"/> Apache NetBeans
 
 > Utilizado Apache NetBeans como IDE para o desenvolvimento do código de todo o projeto.
 
@@ -313,7 +313,7 @@ No aspecto técnico, utilizamos tecnologias como PostgreSQL, Node.js, JavaScript
 
 ### Demonstração do Projeto
 
-https://github.com/apiFatec/API-3-Semestre-Ionic/assets/112128418/5249386f-277d-4cd3-89ea-8a833b5b45b9
+<img src="/docs/projeto03.gif/" alt="Demonstração do Projeto" style="zoom: 150%;" />
 
 ### Contribuições
 
