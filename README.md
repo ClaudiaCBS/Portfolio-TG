@@ -1,6 +1,6 @@
 <Div align="center" >
 
-<img align="center" src="/docs/ClaudiaCBS.jpg" alt="Foto do Perfil" width="200"/>
+<img align="center" src="/docs/ClaudiaCBS2.jpg" alt="Foto do Perfil" width="200"/>
 
 # Cláudia de Carlos Braga Secco
 
@@ -55,6 +55,7 @@ No 4º semestre da faculdade, cursei a disciplina de Metodologia de Pesquisa, mi
 ### **Banco de Dados**
 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### **Ferramentas de Design e Gestão**
 
@@ -72,7 +73,7 @@ No 4º semestre da faculdade, cursei a disciplina de Metodologia de Pesquisa, mi
 | :------------------------------------ | :----------------------------------------------------------------------------------------- | :----------- |
 | Essentials - PC Hardware and Software | [Networking Academy CISCO](https://www.netacad.com/courses/it-essentials?courseLang=en-US) | Concluído    |
 | AWS Academy Cloud Foundations         | [AWS Academy](https://aws.amazon.com/pt/training/awsacademy/)                              | Concluído    |
-| Introduction to MongoDB               | [MongoDB](https://learn.mongodb.com/learning-paths/introduction-to-mongodb)                | Em Andamento |
+| Introduction to MongoDB               | [MongoDB](https://learn.mongodb.com/learning-paths/introduction-to-mongodb)                | Concluído    |
 | Google Cloud Computing Foundations    | [Google Cloud Skills Boost](https://www.cloudskillsboost.google/)                          | Em Andamento |
 
 ---
@@ -93,7 +94,7 @@ No 4º semestre da faculdade, cursei a disciplina de Metodologia de Pesquisa, mi
 
 <br>
 
-## Projetos
+## :package: Projetos
 
 <details><summary><h3>Primeiro Semestre (2022-2)</h3></summary>
 
@@ -203,7 +204,7 @@ No aspecto técnico, utilizamos Java para a implementação das funcionalidades 
 
 > Utilizamos Java para a criação do programa desktop.
 
-<img src="/docs/netbeans.png/" alt="Foto do Perfil" width="50 rem"/> Apache NetBeans
+<img src="/docs/netbeans.png/" alt="NetBeans" width="50 rem"/> Apache NetBeans
 
 > Utilizado Apache NetBeans como IDE para o desenvolvimento do código de todo o projeto.
 
@@ -433,17 +434,9 @@ Neste projeto, atuei pela primeira vez como Scrum Master, sendo responsável por
 
 ### Soft Skills
 
-- Comunicação
+- Comunicação e Trabalho em Equipe
 
-> Minhas habilidades de comunicação foram aprimoradas ao atuar como Scrum Master, onde fui responsável por promover a colaboração e garantir que todos os membros da equipe estivessem alinhados com os objetivos do projeto. Conduzi reuniões diárias e removi impedimentos que poderiam atrapalhar o progresso da equipe. Uma situação específica que exemplifica isso foi quando precisei estar mais presente com um membro da equipe de desenvolvimento que só trabalhava quando era convocado por mim e quando eu estava junto na atividade. Essa experiência me proporcionou a oportunidade de desenvolver um estilo de liderança que incentiva a participação ativa de todos, permitindo que a equipe trabalhasse de forma coesa e eficaz.
-
-- Organização
-
-> Para atender às demandas como Scrum Master e ainda cumprir as atividades necessárias no projeto, precisei ser bem mais organizada do que o habitual. Além disso, era necessário criar um ambiente propício para trabalhar com um dos membros da equipe de desenvolvimento, por exemplo, que só conseguia realizar suas tarefas na minha presença. Essa abordagem me permitiu equilibrar minhas responsabilidades de forma eficaz e manter o foco nas prioridades do projeto.
-
-- Trabalho em equipe
-
-> Adquiri essa habilidade ao colaborar efetivamente com meus colegas durante a execução do projeto. Fui proativa ao estar disponível para ajudar um membro específico da equipe, que precisava de minha presença para realizar suas tarefas. Essa disposição para apoiar seus esforços me permitiu compartilhar conhecimentos e experiências, além de fomentar um ambiente de colaboração e confiança, fundamental para o sucesso do projeto.
+> Ao atuar como Scrum Master, desenvolvi habilidades de comunicação e trabalho em equipe ao promover a colaboração e garantir que todos os membros estivessem alinhados com os objetivos do projeto. Conduzi reuniões diárias, esclareci dúvidas e removi impedimentos que poderiam atrapalhar o progresso. Um exemplo foi o apoio a um membro da equipe que enfrentava dificuldades para trabalhar de forma autônoma. Por meio de diálogo constante e incentivo, consegui fazer com que ele se sentisse mais engajado e confiante, o que resultou em uma maior participação nas atividades e no fortalecimento da dinâmica da equipe.
 
 </details>
 
@@ -453,10 +446,90 @@ Neste projeto, atuei pela primeira vez como Scrum Master, sendo responsável por
 
 > [Link para a API do 5º Semestre](https://github.com/m-u-l-a-s/ClimaMonitor)
 
-No 5º semestre do curso...
+No 5º semestre do curso, desenvolvemos o ClimaMonitor, um projeto em parceria com a empresa Kersys, especializada em soluções tecnológicas para o setor agrícola. O problema apresentado foi a necessidade de uma ferramenta que facilitasse o monitoramento de condições climáticas por produtores rurais, especialmente em regiões com conectividade limitada à internet. A solução proposta foi o desenvolvimento de um aplicativo móvel que oferece dados precisos de temperatura e pluviometria, ajudando no gerenciamento eficiente de lavouras. O ClimaMonitor inclui funcionalidades como a exibição de gráficos interativos com dados históricos e atuais de temperatura e precipitação, envio de notificações para alertas climáticos críticos, como tempestades ou secas prolongadas, e o cadastro de lavouras e tipos de cultivo, permitindo a personalização das informações exibidas. O aplicativo também foi projetado para operar offline, garantindo acessibilidade em áreas com baixa conectividade, além de contar com alta segurança de dados para a proteção das informações sensíveis dos usuários.
+
+Para o gerenciamento do projeto, utilizamos a metodologia ágil Scrum, com um repositório no GitHub para controle de versão e colaboração eficiente.
+
+No aspecto técnico, o sistema foi desenvolvido com tecnologias modernas, como TypeScript e JavaScript, e framework como React Native para a interface. A persistência de dados foi implementada com o MongoDB, utilizado como banco de dados principal quando há conexão com a internet, e o WatermelonDB, que permite o armazenamento e gerenciamento de dados offline, garantindo flexibilidade, eficiência e acessibilidade em áreas com baixa conectividade.
 
 </Div>
 
 ### Tecnologias utilizadas
+
+<br>
+   
+<img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/> Figma
+
+> Utilizado para desenvolver o protótipo apresentado ao cliente.
+
+<img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> VScode
+
+> Utilizado para o desenvolvimento do código de todo o projeto.
+
+<img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/> React-Native
+
+> Usado para a construção da interface do sistema e do aplicativo móvel, garantindo interatividade e responsividade.
+
+<img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/> TypeScript
+
+> Utilizamos para fornecer tipagem estática ao JavaScript, melhorando a manutenção do código e reduzindo erros durante o desenvolvimento.
+
+<img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> Github
+
+> Utilizamos o GitHub para a hospedagem do código-fonte, facilitando o trabalho em equipe, oferecendo controle de versão eficiente e permitindo o gerenciamento dos colaboradores.
+
+<img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"/> MongDB
+
+> Banco de dados utilizado para a persistência de dados quando há conexão com a internet, devido à sua flexibilidade e escalabilidade.
+
+<img src="/docs/watermelondb.png/" alt="WatermelonDB" width="50 rem"/> WatermelonDB
+
+> Implementado para o armazenamento e gerenciamento de dados em modo offline, garantindo a funcionalidade do aplicativo em áreas com baixa conectividade.
+
+### Demonstração do Projeto
+
+[Assista ao vídeo no YouTube](https://www.youtube.com/watch?v=cXbXq8ZWd0A).
+
+### Contribuições
+
+<Div align="justify" >
+
+Neste projeto, atuei pela terceira vez como Scrum Master, o que tem sido uma experiência muito enriquecedora no gerenciamento de equipes e organização de processos. Fui responsável pelo desenvolvimento de duas páginas importantes: a página de cadastro de usuário e a página de notificações.
+Na página de cadastro, implementei a criação de uma tela onde o usuário pode inserir seu e-mail e senha para registro. Utilizei o React Native para a construção da interface. Quando o usuário clica em "Cadastrar", o sistema verifica se os campos obrigatórios estão preenchidos e, em seguida, realiza o processo de cadastro do usuário. Se o cadastro for bem-sucedido, os campos são limpos e o usuário recebe um alerta de sucesso. Caso contrário, um erro é exibido. A página foi estilizada para garantir uma interface organizada e responsiva.
+Na página de notificações, implementei a lógica e o layout para exibir os alertas de temperatura e pluviometria para os usuários. O código se conecta a um serviço que retorna os alertas do dia, os quais são apresentados na interface por meio de cartões interativos. Cada notificação exibe o nome do cultivo e os detalhes dos alertas de temperatura e pluviometria. Também configurei um modal que permite ao usuário fechar as notificações quando desejado. Além disso, implementei o estilo para garantir que a visualização fosse intuitiva e alinhada ao restante da aplicação.
+
+</Div>
+
+### Hard Skills
+
+- Desenvolvimento Mobile (React Native)
+
+> Conhecimento intermediário no desenvolvimento de aplicativos móveis, com ênfase na criação de interfaces intuitivas e responsivas.
+
+- Banco de Dados Não Relacional (MongoDB)
+
+> Capacidade de projetar esquemas, realizar consultas e implementar soluções eficientes para o armazenamento de dados.
+
+- Controle de versionamento (GIT e GITHUB)
+
+> Sei fazer com autonomia.
+
+### Soft Skills
+
+- Trabalho em Equipe
+
+> Um desafio que enfrentei na primeira sprint do projeto foi a chegada de um novo membro na equipe. Para integrá-lo de forma eficiente, precisei explicar o formato de trabalho da equipe e a dinâmica que havíamos estabelecido nas sprints dos projetos anteriores. Isso envolveu uma série de reuniões e chamadas no Discord, nas quais forneci orientações práticas e esclareci dúvidas. Depois de várias interações, o novo membro conseguiu ganhar autonomia para desenvolver suas atividades com mais confiança. Esse processo me ensinou a ser paciente e a ter clareza ao passar informações, assegurando que todos estivessem alinhados com os objetivos do grupo.
+
+- Organização
+
+> Ao atuar como Scrum Master pela terceira vez, ganhei mais experiência para dividir as tarefas de maneira mais estratégica. Um exemplo claro disso aconteceu na segunda sprint, quando enfrentamos um problema crítico com o banco de dados CouchDB, que se tornou obsoleto. Precisamos migrar todo o projeto para o banco de dados WatermelonDB, o que gerou incompatibilidade com o React-Native Expo. Esse desafio exigiu a remoção de tudo o que estava utilizando o Expo, um trabalho complexo que envolveu reorganizar diversas partes do projeto para garantir que a entrega fosse feita a tempo. Esse processo me forçou a ser ainda mais precisa na alocação de recursos e no acompanhamento das atividades para que conseguíssemos cumprir o prazo de entrega.
+
+- Comunicação
+
+> Na terceira sprint, me deparei com uma situação semelhante à que vivenciei no 4º semestre, quando um membro da equipe estava desmotivado e enfrentava dificuldades com sua carga de trabalho na faculdade. Isso afetava sua participação nas atividades do projeto, então tive que atuar diretamente para incentivá-lo. Conversei bastante com ele, ouvi suas dificuldades e, com um diálogo constante, consegui motivá-lo a continuar e a se engajar mais no trabalho em equipe. Esse apoio resultou em uma maior confiança por parte dele e em um retorno significativo ao progresso das tarefas. Esse episódio me ajudou a aprimorar ainda mais minhas habilidades de comunicação, pois foi necessário entender não só as questões do projeto, mas também o estado emocional e as motivações de um colega de equipe.
+
+- Proatividade
+
+> Ao longo do desenvolvimento do projeto, identifiquei que uma das áreas em que eu mais precisava crescer era no domínio do React-Native. Sabia que, para contribuir de forma eficaz e atender as demandas do projeto, seria necessário me aprofundar nessa tecnologia. Decidi, então, estudar sozinha para conseguir trabalhar com essa tecnologia, mesmo sabendo que seria um processo desafiador. Investi tempo aprendendo e praticando, enfrentando dificuldades técnicas, mas o esforço foi muito gratificante. Esse processo me motivou a continuar avançando nas minhas habilidades de desenvolvimento e a ser mais independente na resolução de problemas, sem depender sempre da ajuda de outros membros da equipe. Esse impulso me ajudou a evoluir tanto em termos técnicos quanto na minha capacidade de tomar a iniciativa. Essas situações demonstram o quanto o trabalho em equipe, a comunicação eficiente, a organização e a proatividade foram essenciais para o sucesso do projeto, e como eu evoluí nessas áreas ao longo das sprints.
 
 </details>
