@@ -494,9 +494,11 @@ No aspecto técnico, o sistema foi desenvolvido com tecnologias modernas, como T
 
 <Div align="justify" >
 
-Neste projeto, atuei pela terceira vez como Scrum Master, o que tem sido uma experiência muito enriquecedora no gerenciamento de equipes e organização de processos. Fui responsável pelo desenvolvimento de duas páginas importantes: a página de cadastro de usuário e a página de notificações.
+Neste projeto, atuei pela terceira vez como Scrum Master, o que tem sido uma experiência muito enriquecedora no gerenciamento de equipes e organização de processos. Além disso, também fui responsável pelo desenvolvimento de duas páginas importantes: a página de cadastro de usuário e a página de notificações.
 Na página de cadastro, implementei a criação de uma tela onde o usuário pode inserir seu e-mail e senha para registro. Utilizei o React Native para a construção da interface. Quando o usuário clica em "Cadastrar", o sistema verifica se os campos obrigatórios estão preenchidos e, em seguida, realiza o processo de cadastro do usuário. Se o cadastro for bem-sucedido, os campos são limpos e o usuário recebe um alerta de sucesso. Caso contrário, um erro é exibido. A página foi estilizada para garantir uma interface organizada e responsiva.
 Na página de notificações, implementei a lógica e o layout para exibir os alertas de temperatura e pluviometria para os usuários. O código se conecta a um serviço que retorna os alertas do dia, os quais são apresentados na interface por meio de cartões interativos. Cada notificação exibe o nome do cultivo e os detalhes dos alertas de temperatura e pluviometria. Também configurei um modal que permite ao usuário fechar as notificações quando desejado. Além disso, implementei o estilo para garantir que a visualização fosse intuitiva e alinhada ao restante da aplicação.
+Por fim, para além do desenvolvimento técnico, também trabalhei na criação do manual do usuário do aplicativo. O documento foi elaborado com uma linguagem clara e acessível, contendo instruções detalhadas sobre o uso de todas as funcionalidades do aplicativo, além de incluir imagens para facilitar a compreensão. 
+
 
 </Div>
 
