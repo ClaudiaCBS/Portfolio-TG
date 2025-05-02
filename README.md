@@ -10,7 +10,7 @@
 
 <Div align="justify" >
 
-Olá, meu nome é Claudia Secco, e atualmente estou no 5º semestre do curso de Tecnólogo em Análise e Desenvolvimento de Sistemas na FATEC Prof. Jessen Vidal em São José dos Campos. Meu primeiro contato com a área de tecnologia ocorreu em 2018, durante uma atividade na biblioteca de Ann Arbor, Michigan - EUA, onde aprendi a programar em Python utilizando um Raspberry Pi.
+Olá, meu nome é Claudia Secco, e atualmente estou no 6º semestre do curso de Tecnólogo em Análise e Desenvolvimento de Sistemas na FATEC Prof. Jessen Vidal em São José dos Campos. Meu primeiro contato com a área de tecnologia ocorreu em 2018, durante uma atividade na biblioteca de Ann Arbor, Michigan - EUA, onde aprendi a programar em Python utilizando um Raspberry Pi.
 
 Em junho de 2022, participei do programa "Meninas Programadoras", promovido pela USP, o que despertou ainda mais meu interesse por tecnologia e me motivou a ingressar na FATEC no segundo semestre do mesmo ano.
 
@@ -74,7 +74,7 @@ No 4º semestre da faculdade, cursei a disciplina de Metodologia de Pesquisa, mi
 | Essentials - PC Hardware and Software | [Networking Academy CISCO](https://www.netacad.com/courses/it-essentials?courseLang=en-US) | Concluído    |
 | AWS Academy Cloud Foundations         | [AWS Academy](https://aws.amazon.com/pt/training/awsacademy/)                              | Concluído    |
 | Introduction to MongoDB               | [MongoDB](https://learn.mongodb.com/learning-paths/introduction-to-mongodb)                | Concluído    |
-| Google Cloud Computing Foundations    | [Google Cloud Skills Boost](https://www.cloudskillsboost.google/)                          | Em Andamento |
+| Google Cloud Computing Foundations    | [Google Cloud Skills Boost](https://www.cloudskillsboost.google/)                          | Concluído    |
 
 ---
 
@@ -86,7 +86,8 @@ No 4º semestre da faculdade, cursei a disciplina de Metodologia de Pesquisa, mi
 | [2º Semestre](https://github.com/ClaudiaCBS/API_02_SEMESTE) | 2023 - 1º Semestre | Cliente Interno  |
 | [3º Semestre](https://github.com/ClaudiaCBS/API_03_SEMESTE) | 2023 - 2º Semestre | Ionic            |
 | [4º Semestre](https://github.com/ClaudiaCBS/API_04_SEMESTE) | 2024 - 1º Semestre | Siatt            |
-| [5° Semestre](https://github.com/m-u-l-a-s/ClimaMonitor)    | 2024 - 2° Semestre | Kersys           |
+| [5° Semestre](https://github.com/ClaudiaCBS/API_05_SEMESTE) | 2024 - 2° Semestre | Kersys           |
+| [6° Semestre](https://github.com/FATEC-FULLSTACK/API6)      | 2025 - 1° Semestre | Dom Rock         |
 
 <br />
 
@@ -444,7 +445,7 @@ Neste projeto, atuei pela primeira vez como Scrum Master, sendo responsável por
 
 <Div align="justify" >
 
-> [Link para a API do 5º Semestre](https://github.com/m-u-l-a-s/ClimaMonitor)
+> [Link para a API do 5º Semestre](https://github.com/ClaudiaCBS/API_05_SEMESTE)
 
 No 5º semestre do curso, desenvolvemos o ClimaMonitor, um projeto em parceria com a empresa Kersys, especializada em soluções tecnológicas para o setor agrícola. O problema apresentado foi a necessidade de uma ferramenta que facilitasse o monitoramento de condições climáticas por produtores rurais, especialmente em regiões com conectividade limitada à internet. A solução proposta foi o desenvolvimento de um aplicativo móvel que oferece dados precisos de temperatura e pluviometria, ajudando no gerenciamento eficiente de lavouras. O ClimaMonitor inclui funcionalidades como a exibição de gráficos interativos com dados históricos e atuais de temperatura e precipitação, envio de notificações para alertas climáticos críticos, como tempestades ou secas prolongadas, e o cadastro de lavouras e tipos de cultivo, permitindo a personalização das informações exibidas. O aplicativo também foi projetado para operar offline, garantindo acessibilidade em áreas com baixa conectividade, além de contar com alta segurança de dados para a proteção das informações sensíveis dos usuários.
 
@@ -494,7 +495,7 @@ No aspecto técnico, o sistema foi desenvolvido com tecnologias modernas, como T
 
 <Div align="justify" >
 
-Neste projeto, atuei pela terceira vez como Scrum Master, o que tem sido uma experiência muito enriquecedora no gerenciamento de equipes e organização de processos. Além disso, também fui responsável pelo desenvolvimento de duas páginas importantes: a página de cadastro de usuário e a página de notificações.
+Neste projeto, atuei pela segunda vez como Scrum Master, o que tem sido uma experiência muito enriquecedora no gerenciamento de equipes e organização de processos. Além disso, também fui responsável pelo desenvolvimento de duas páginas importantes: a página de cadastro de usuário e a página de notificações.
 Na página de cadastro, implementei a criação de uma tela onde o usuário pode inserir seu e-mail e senha para registro. Utilizei o React Native para a construção da interface. Quando o usuário clica em "Cadastrar", o sistema verifica se os campos obrigatórios estão preenchidos e, em seguida, realiza o processo de cadastro do usuário. Se o cadastro for bem-sucedido, os campos são limpos e o usuário recebe um alerta de sucesso. Caso contrário, um erro é exibido. A página foi estilizada para garantir uma interface organizada e responsiva.
 Na página de notificações, implementei a lógica e o layout para exibir os alertas de temperatura e pluviometria para os usuários. O código se conecta a um serviço que retorna os alertas do dia, os quais são apresentados na interface por meio de cartões interativos. Cada notificação exibe o nome do cultivo e os detalhes dos alertas de temperatura e pluviometria. Também configurei um modal que permite ao usuário fechar as notificações quando desejado. Além disso, implementei o estilo para garantir que a visualização fosse intuitiva e alinhada ao restante da aplicação.
 Por fim, para além do desenvolvimento técnico, também trabalhei na criação do manual do usuário do aplicativo. O documento foi elaborado com uma linguagem clara e acessível, contendo instruções detalhadas sobre o uso de todas as funcionalidades do aplicativo, além de incluir imagens para facilitar a compreensão. 
@@ -533,5 +534,108 @@ Por fim, para além do desenvolvimento técnico, também trabalhei na criação 
 - Proatividade
 
 > Ao longo do desenvolvimento do projeto, identifiquei que uma das áreas em que eu mais precisava crescer era no domínio do React-Native. Sabia que, para contribuir de forma eficaz e atender as demandas do projeto, seria necessário me aprofundar nessa tecnologia. Decidi, então, estudar sozinha para conseguir trabalhar com essa tecnologia, mesmo sabendo que seria um processo desafiador. Investi tempo aprendendo e praticando, enfrentando dificuldades técnicas, mas o esforço foi muito gratificante. Esse processo me motivou a continuar avançando nas minhas habilidades de desenvolvimento e a ser mais independente na resolução de problemas, sem depender sempre da ajuda de outros membros da equipe. Esse impulso me ajudou a evoluir tanto em termos técnicos quanto na minha capacidade de tomar a iniciativa. Essas situações demonstram o quanto o trabalho em equipe, a comunicação eficiente, a organização e a proatividade foram essenciais para o sucesso do projeto, e como eu evoluí nessas áreas ao longo das sprints.
+
+</details>
+
+
+<details><summary><h3>Sexto Semestre (2025-1)</h3></summary>
+
+<Div align="justify" >
+
+> [Link para a API do 6º Semestre](https://github.com/FATEC-FULLSTACK/API6)
+
+No 6º semestre do curso, desenvolvemos a Plataforma de Treinamento de IA, um projeto inovador que visa aprimorar modelos de linguagem (LLMs) por meio de feedback humano estruturado. O problema central abordado foi a falta de ferramentas eficientes para avaliação e comparação de respostas geradas por diferentes LLMs (como OpenAI e Gemini), especialmente em critérios como coerência, veracidade e segurança. A solução proposta é uma plataforma web onde usuários podem enviar perguntas, comparar respostas de múltiplos modelos, avaliá-las com base em métricas específicas e contribuir para o treinamento contínuo dos sistemas via Aprendizado por Reforço com Feedback Humano (RLHF).
+
+Para o gerenciamento do projeto, utilizamos a metodologia Scrum, com integração entre Jira e GitHub para rastreamento de tarefas e versionamento de código. A arquitetura técnica combinou Vue.js no front-end, Python com FastAPI e LangChain no back-end, e MongoDB como banco de dados principal, além de integração com bancos vetoriais para recuperação eficiente de informações.
+
+</Div>
+
+### Tecnologias utilizadas
+
+<br>
+   
+<img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/> Figma
+
+> Utilizado para desenvolver o protótipo apresentado ao cliente.
+
+<img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> VScode
+
+> Utilizado para o desenvolvimento do código de todo o projeto.
+
+<img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg"/> Vue.js          
+
+> Framework front-end para construção de interfaces dinâmicas.
+
+<img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/> Python
+
+> Linguagem principal do back-end.
+
+<img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg"/> FastAPI
+
+> Framework para construção de APIs rápidas e escaláveis.
+
+<img src="/docs/langchain.png/" alt="LangChain" width="50 rem"/> LangChain
+
+> Integração com modelos de linguagem e RAG (Retrieval-Augmented Generation).
+
+<img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"/> MongDB
+
+> Banco de dados utilizado para a persistência de dados quando há conexão com a internet, devido à sua flexibilidade e escalabilidade.
+
+<img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> Github
+
+> Utilizamos o GitHub para a hospedagem do código-fonte, facilitando o trabalho em equipe, oferecendo controle de versão eficiente e permitindo o gerenciamento dos colaboradores.
+
+<img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg"/> Jira
+
+> Gerenciamento ágil de tarefas e sprints.
+
+### Demonstração do Projeto
+
+[Assista ao vídeo no YouTube](https://www.youtube.com/watch?v=cXbXq8ZWd0A).
+
+### Contribuições
+
+<Div align="justify" >
+
+Neste projeto, atuei pela terceira vez como Scrum Master, aprofundando minha experiência na gestão de equipes ágeis e na resolução de desafios complexos. Um dos principais obstáculos enfrentados foi a divisão inadequada de tarefas já na primeira sprint, quando um desenvolvedor assumiu a tarefa de outro colega sem comunicação prévia, mesmo com as atribuições claramente definidas no Jira. Quando o membro original terminou suas atividades designadas, precisei comunicar que sua tarefa principal havia sido "roubada" e já estava concluída por outro. Isso não apenas sobrecarregou o desenvolvedor afetado – que precisou assumir uma nova tarefa de última hora – mas também comprometeu a confiança no processo. Com diplomacia, reajustei as responsabilidades e reforcei a importância de respeitar as assignments do Jira, transformando o incidente em um aprendizado sobre transparência para toda a equipe.  
+Outro momento crítico foi um conflito interno envolvendo um novo integrante da equipe. Após fazer uma pergunta no chat do grupo e não receber respostas, ele interpretou o silêncio como rejeição, chegando a temer ser "demitido" do projeto e me procurou para pedir desligamento. Intermediando a situação, expliquei que a dinâmica da equipe era naturalmente menos ativa em comunicações assíncronas, mas que isso não refletia descontentamento com seu trabalho. Organizei uma conversa em grupo para realinhar expectativas e estimulei a equipe a adotar um canal dedicado para dúvidas, o que restaurou a confiança do membro.  
+Na segunda sprint, o problema de tarefas mal atribuídas ressurgiu, mesmo com as labels do Jira indicando responsáveis. Convoquei uma reunião extraordinária para reafirmar os fluxos de trabalho, destacando que mudanças nas assignments deveriam ser comunicadas antecipadamente no Discord e aprovadas por mim. Paralelamente, dediquei tempo significativo para capacitar a equipe nos padrões de commit e na estratégia de branches, criando tutoriais e me reunindo com cada membro da equipe para garantir que as integrações entre GitHub e Jira ocorressem sem erros.  
+Um imprevisto crítico ocorreu quando um desenvolvedor adoeceu e não conseguiu entregar suas tarefas. Para garantir que o MVP (mínimo produto viável) combinado com o cliente fosse entregue no prazo, mobilizei a equipe em uma rápida renegociação interna. Identifiquei os membros com capacidade para absorver as tarefas pendentes sem comprometer suas próprias metas, redistribuindo as atividades com base nas habilidades disponíveis. Essa intervenção não apenas salvou a sprint, mas também fortaleceu o espírito colaborativo do time.
+Embora minha atuação tenha sido focada em gestão, contribuí indiretamente para o produto ao documentar processos críticos, como o manual de uso do Jira para novos membros, e ao facilitar a comunicação entre desenvolvedores e o Product Owner, assegurando que os requisitos fossem entendidos por todos. Essas experiências reforçaram minha capacidade de liderar sob pressão e transformar conflitos em oportunidades de melhoria para a equipe.
+
+</Div>
+
+### Hard Skills
+
+- Gestão Ágil (Scrum/Jira)
+
+> Domínio avançado na condução de cerimônias e resolução de impedimentos em equipes multidisciplinares.
+
+- Versionamento (Git/GitHub)
+
+> Implementação de estratégias de branch e integração com ferramentas de gestão.
+
+- Documentação de Processos
+
+> Criação de manuais e diretrizes para padronização do trabalho em equipe.
+
+### Soft Skills
+
+- Mediação de Conflitos
+
+> Habilidade para identificar tensões e facilitar diálogos produtivos. Ao acolher o novo membro que se sentiu excluído, conduzi diálogos individuais e em grupo para restaurar a confiança. Expliquei a dinâmica da equipe sem invalidar seus sentimentos, resultando em sua permanência e integração.
+
+- Comunicação Assertiva
+
+> Estabeleci regras claras após os problemas de tarefas 'roubadas', criando um fluxo de aprovação via Discord para mudanças no Jira. Isso reduziu conflitos em 100% nas sprints seguintes.
+
+- Resiliência
+
+> Capacidade de lidar com situações adversas (como realocação de tarefas sob pressão) sem comprometer o cronograma. Garanti a entrega do MVP mesmo com dois imprevistos críticos: desalinhamento de tarefas e ausência por doença, mantendo a equipe focada nas prioridades do cliente.
+
+- Empatia
+
+> Sensibilidade para entender as dificuldades individuais dos membros e adaptar a abordagem de gestão. Percebi a insegurança do novo membro antes que ela se tornasse crítica, oferecendo suporte individual e ajustando processos para inclusão (ex.: canal de dúvidas dedicado).
 
 </details>
