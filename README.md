@@ -594,7 +594,7 @@ Para o gerenciamento do projeto, utilizamos a metodologia Scrum, com integraçã
 
 ### Demonstração do Projeto
 
-[Assista ao vídeo no YouTube](https://www.youtube.com/watch?v=cXbXq8ZWd0A).
+[Assista ao vídeo no YouTube](https://youtu.be/C3ySkVufNRI).
 
 ### Contribuições
 
