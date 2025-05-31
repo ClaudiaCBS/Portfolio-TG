@@ -80,7 +80,7 @@ No 6º semestre da faculdade, fui monitora da disciplina Programação Linear co
 | Introduction to MongoDB               | [MongoDB](https://learn.mongodb.com/learning-paths/introduction-to-mongodb)                | Concluído    |
 | Google Cloud Computing Foundations    | [Google Cloud Skills Boost](https://www.cloudskillsboost.google/)                          | Concluído    |
 | Introdução à Inteligência Artificial  | [IBM SkillsBuild](https://skills.yourlearning.ibm.com/activity/MDL-211)                    | Em Andamento    |
-| Fundamentos de Inteligência Artificial Aprendizagem guiada com Capstone | 2Q 2025    | [IBM SkillsBuild](https://skills.yourlearning.ibm.com/activity/PLAN-6897819BF118)                          | Em Andamento    |
+| Fundamentos de Inteligência Artificial Aprendizagem guiada com Capstone     | [IBM SkillsBuild](https://skills.yourlearning.ibm.com/activity/PLAN-6897819BF118)                          | Em Andamento    |
 
 
 
