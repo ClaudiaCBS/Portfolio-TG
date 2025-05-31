@@ -12,7 +12,7 @@
 
 Olá, meu nome é Claudia Secco, e atualmente estou no 6º semestre do curso de Tecnólogo em Análise e Desenvolvimento de Sistemas na FATEC Prof. Jessen Vidal em São José dos Campos. Meu primeiro contato com a área de tecnologia ocorreu em 2018, durante uma atividade na biblioteca de Ann Arbor, Michigan - EUA, onde aprendi a programar em Python utilizando um Raspberry Pi.
 
-Em junho de 2022, participei do programa "Meninas Programadoras", promovido pela USP, o que despertou ainda mais meu interesse por tecnologia e me motivou a ingressar na FATEC no segundo semestre do mesmo ano.
+Em junho de 2022, participei do programa "Meninas Programadoras" promovido pela USP, o que despertou ainda mais meu interesse por tecnologia e me motivou a ingressar na FATEC no segundo semestre do mesmo ano.
 
 No 3º semestre da faculdade, iniciei atividades extracurriculares no ensino superior por meio de uma bolsa de iniciação científica no Instituto Nacional de Pesquisas Espaciais (INPE), onde tive a oportunidade de participar de um curso de Programação para Sensoriamento Remoto com Python, no qual desenvolvi códigos para análise de dados ambientais, focando em modelos de regressão linear para identificar relações entre variáveis ambientais e em análises de qualidade da água. Além disso, converti rotinas de processamento de dados escritas em R e MATLAB para Python. Este projeto foi fundamental para adaptar ferramentas avançadas a um ambiente de código aberto, promovendo acessibilidade e inovação científica. Durante esse período, também apliquei as heurísticas de usabilidade de Jakob Nielsen para melhorar a experiência dos cientistas do INPE, desenvolvendo uma interface mais amigável para a disponibilização de artigos científicos.
 
