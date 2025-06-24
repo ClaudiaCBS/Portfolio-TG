@@ -162,7 +162,7 @@ No aspecto técnico, foram utilizadas linguagens como Python e JavaScript, além
 
 <Div align="justify" >
 
-Neste projeto, integrei o time de desenvolvimento back-end, onde criei funções para atualizar as especificações dos computadores em uma determinada sala. Minha contribuição foi integrá-la à interface HTML, permitindo que os usuários possam modificar informações como o sistema operacional, o processador e a memória RAM diretamente na página web.
+Neste projeto, integrei o time de desenvolvimento back-end, onde criei funções para atualizar as especificações dos computadores em uma determinada sala. Minha contribuição foi integrar a interface HTML, permitindo que os usuários possam modificar informações como o sistema operacional, o processador e a memória RAM diretamente na página web.
 
 </Div>
 
@@ -244,11 +244,11 @@ Neste projeto, atuei como Product Owner, sendo responsável pela comunicação d
 
 - Desenvolvimento Desktop (Java)
 
-> Conhecimento básico em desenvolvimento de aplicações Java Desktop e adquiri familiaridade com o uso do NetBeans como ambiente de desenvolvimento integrado.
+> Sei fazer com ajuda o desenvolvimento de aplicações Java Desktop e adquiri familiaridade com o uso do NetBeans como ambiente de desenvolvimento integrado.
 
 - Utilização de um SGBD e bancos de dados relacionais (MySQL)
 
-> Conhecimento básico em consultas, criação e manipulação de tabelas, inserção de dados.
+> Sei fazer com ajuda consultas, criação e manipulação de tabelas, inserção de dados.
 
 - Controle de versionamento (GIT e GITHUB)
 
@@ -338,11 +338,11 @@ Neste projeto, pela segunda vez, atuei como Product Owner, sendo responsável pe
 
 - Desenvolvimento Web (TypeScript, Node.js)
 
-> Conhecimento intermediário em desenvolvimento de aplicações web, com foco na utilização de TypeScript e Node.js para construção de APIs e serviços back-end.
+> Sei fazer com ajuda o desenvolvimento de aplicações web, com foco na utilização de TypeScript e Node.js para construção de APIs e serviços back-end.
 
 - Uso de Banco de Dados Relacional (PostgreSQL)
 
-> Possuo conhecimento aceitável, sabendo criar tabelas, fazer consultar e montar esquemas.
+> Sei fazer com autonomia criação de tabelas, realização de consultas e montagem de esquemas.
 
 - Controle de versionamento (GIT e GITHUB)
 
@@ -432,11 +432,11 @@ Neste projeto, atuei pela primeira vez como Scrum Master, sendo responsável por
 
 - Desenvolvimento Web (TypeScript, Node.js, React, Tailwind)
 
-> Conhecimento intermediário em desenvolvimento de aplicações web, com foco na utilização de TypeScript, Node.js, React e Tailwind para construção de interfaces e APIs.
+> Sei fazer com ajuda o desenvolvimento de aplicações web, com foco na utilização de TypeScript, Node.js, React e Tailwind para construção de interfaces e APIs.
 
 - Uso de Banco de Dados Relacional (MySQL)
 
-> Conhecimento desejável, sabendo criar tabelas, fazer consultar e montar esquemas.
+> Sei fazer com autonomia criação de tabelas, realização de consultas e montagem de esquemas.
 
 - Controle de versionamento (GIT e GITHUB)
 
@@ -456,7 +456,7 @@ Neste projeto, atuei pela primeira vez como Scrum Master, sendo responsável por
 
 > [Link para a API do 5º Semestre](https://github.com/ClaudiaCBS/API_05_SEMESTE)
 
-No 5º semestre do curso, desenvolvemos o ClimaMonitor, um projeto em parceria com a empresa Kersys, especializada em soluções tecnológicas para o setor agrícola. O problema apresentado foi a necessidade de uma ferramenta que facilitasse o monitoramento de condições climáticas por produtores rurais, especialmente em regiões com conectividade limitada à internet. A solução proposta foi o desenvolvimento de um aplicativo móvel que oferece dados precisos de temperatura e pluviometria, ajudando no gerenciamento eficiente de lavouras. O ClimaMonitor inclui funcionalidades como a exibição de gráficos interativos com dados históricos e atuais de temperatura e precipitação, envio de notificações para alertas climáticos críticos, como tempestades ou secas prolongadas, e o cadastro de lavouras e tipos de cultivo, permitindo a personalização das informações exibidas. O aplicativo também foi projetado para operar offline, garantindo acessibilidade em áreas com baixa conectividade, além de contar com alta segurança de dados para a proteção das informações sensíveis dos usuários.
+No 5º semestre do curso, desenvolvemos o ClimaMonitor, um projeto em parceria com a empresa Kersys, especializada em soluções tecnológicas para o setor agrícola. O problema apresentado era uma dificuldade crítica enfrentada por produtores rurais para monitorar e gerenciar as condições climáticas em suas zonas de plantio. Esses produtores rurais necessitavam de um método prático para registrar e acompanhar em tempo real métricas essenciais como temperatura e pluviometria em suas lavouras. A solução proposta foi o desenvolvimento de um aplicativo móvel que oferece dados precisos de temperatura e pluviometria, ajudando no gerenciamento eficiente de lavouras. O ClimaMonitor inclui funcionalidades como a exibição de gráficos interativos com dados históricos e atuais de temperatura e precipitação, envio de notificações para alertas climáticos críticos, como tempestades ou secas prolongadas, e o cadastro de lavouras e tipos de cultivo, permitindo a personalização das informações exibidas. O aplicativo também foi projetado para operar offline, garantindo acessibilidade em áreas com baixa conectividade, além de contar com alta segurança de dados para a proteção das informações sensíveis dos usuários.
 
 Para o gerenciamento do projeto, utilizamos a metodologia ágil Scrum, com um repositório no GitHub para controle de versão e colaboração eficiente.
 
@@ -516,11 +516,11 @@ Por fim, para além do desenvolvimento técnico, também trabalhei na criação 
 
 - Desenvolvimento Mobile (React Native)
 
-> Conhecimento intermediário no desenvolvimento de aplicativos móveis, com ênfase na criação de interfaces intuitivas e responsivas.
+> Sei fazer com ajuda o desenvolvimento de aplicativos móveis, com ênfase na criação de interfaces intuitivas e responsivas.
 
 - Banco de Dados Não Relacional (MongoDB)
 
-> Capacidade de projetar esquemas, realizar consultas e implementar soluções eficientes para o armazenamento de dados.
+> Sei fazer com autonomia o projeto de esquemas, realizar consultas e implementar soluções eficientes para o armazenamento de dados.
 
 - Controle de versionamento (GIT e GITHUB)
 
@@ -553,7 +553,8 @@ Por fim, para além do desenvolvimento técnico, também trabalhei na criação 
 
 > [Link para a API do 6º Semestre](https://github.com/FATEC-FULLSTACK/API6)
 
-No 6º semestre do curso, desenvolvemos a Plataforma de Treinamento de IA, um projeto inovador que visa aprimorar modelos de linguagem (LLMs) por meio de feedback humano estruturado. O problema central abordado foi a falta de ferramentas eficientes para avaliação e comparação de respostas geradas por diferentes LLMs (como OpenAI e Gemini), especialmente em critérios como coerência, veracidade e segurança. A solução proposta é uma plataforma web onde usuários podem enviar perguntas, comparar respostas de múltiplos modelos, avaliá-las com base em métricas específicas e contribuir para o treinamento contínuo dos sistemas via Aprendizado por Reforço com Feedback Humano (RLHF).
+
+No 6º semestre do curso, desenvolvemos a Plataforma de Treinamento de IA, um projeto em parceria com a empresa Dom Rock, uma empresa especializada em Inteligência Artificial e análise de dados. O problema identificado foi que cuidadores de pessoas acometidas por Alzheimer frequentemente buscam orientação em modelos de linguagem (LLMs), mas não possuem meios confiáveis para verificar a precisão e segurança das respostas obtidas. Atualmente, quando um cuidador faz uma pergunta a esses modelos, não há garantias de que a orientação recebida seja clinicamente adequada, atualizada e segura para o paciente. Algumas respostas podem conter recomendações perigosas, informações obsoletas ou conselhos que não seguem os protocolos médicos estabelecidos. O desafio identificado pela empresa Dom Rock em parceria com neurocientistas foi o estabelecimento de um processo de validação humana para essas respostas geradas por LLMs antes que elas alcancem os cuidadores. A solução proposta é uma plataforma web onde pesquisadores podem enviar perguntas e comparar respostas de múltiplos modelos com base em critérios de coerência, veracidade científica e segurança clínica, contribuindo então para o treinamento contínuo dos sistemas via Aprendizado por Reforço com Feedback Humano (RLHF).
 
 Para o gerenciamento do projeto, utilizamos a metodologia Scrum, com integração entre Jira e GitHub para rastreamento de tarefas e versionamento de código. A arquitetura técnica combinou Vue.js no front-end, Python com FastAPI e LangChain no back-end, e MongoDB como banco de dados principal, além de integração com bancos vetoriais para recuperação eficiente de informações.
 
@@ -619,15 +620,15 @@ Embora minha atuação tenha sido focada em gestão, contribuí indiretamente pa
 
 - Gestão Ágil (Scrum/Jira)
 
-> Domínio avançado na condução de cerimônias e resolução de impedimentos em equipes multidisciplinares.
+> Sei fazer com autonomia a condução de cerimônias e resolução de impedimentos em equipes multidisciplinares.
 
 - Versionamento (Git/GitHub)
 
-> Implementação de estratégias de branch e integração com ferramentas de gestão.
+> Sei fazer com autonomia a implementação de estratégias de branch e integração com ferramentas de gestão.
 
 - Documentação de Processos
 
-> Criação de manuais e diretrizes para padronização do trabalho em equipe.
+> Sei fazer com autonomia a criação de manuais e diretrizes para padronização do trabalho em equipe.
 
 ### Soft Skills
 
