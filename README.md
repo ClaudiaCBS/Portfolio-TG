@@ -436,7 +436,7 @@ Neste projeto, atuei pela primeira vez como Scrum Master, sendo responsável por
 
 - Uso de Banco de Dados Relacional (MySQL)
 
-> Sei fazer com autonomia criação de tabelas, realização de consultas e montagem de esquemas.
+> Sei fazer com ajuda a criação de tabelas, realização de consultas e montagem de esquemas.
 
 - Controle de versionamento (GIT e GITHUB)
 
