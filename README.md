@@ -91,8 +91,8 @@ No 6º semestre da faculdade, fui monitora da disciplina Programação Linear co
 
 | Projeto                                                     | Período            | Empresa Parceira |
 | :---------------------------------------------------------- | :----------------- | :--------------- |
-| [1º Semestre](https://github.com/ClaudiaCBS/API_01_SEMESTE) | 2022 - 2° semestre | Cliente Interno  |
-| [2º Semestre](https://github.com/ClaudiaCBS/API_02_SEMESTE) | 2023 - 1º Semestre | Cliente Interno  |
+| [1º Semestre](https://github.com/ClaudiaCBS/API_01_SEMESTE) | 2022 - 2° semestre | FATEC            |
+| [2º Semestre](https://github.com/ClaudiaCBS/API_02_SEMESTE) | 2023 - 1º Semestre | FATEC            |
 | [3º Semestre](https://github.com/ClaudiaCBS/API_03_SEMESTE) | 2023 - 2º Semestre | Ionic            |
 | [4º Semestre](https://github.com/ClaudiaCBS/API_04_SEMESTE) | 2024 - 1º Semestre | Siatt            |
 | [5° Semestre](https://github.com/ClaudiaCBS/API_05_SEMESTE) | 2024 - 2° Semestre | Kersys           |
@@ -104,7 +104,7 @@ No 6º semestre da faculdade, fui monitora da disciplina Programação Linear co
 
 <br>
 
-## :package: Projetos
+## :package: Descrição dos Projetos
 
 <details><summary><h3>Primeiro Semestre (2022-2)</h3></summary>
 
