@@ -418,7 +418,9 @@ No aspecto técnico, utilizamos as seguintes tecnologias: Figma para o design da
 
 ### Demonstração do Projeto
 
-[Assista ao vídeo no YouTube](https://www.youtube.com/watch?v=7FhvYs1fNTE).
+<img src="/docs/04_API.gif/" alt="Demonstração do Projeto" style="zoom: 150%;" />
+
+[Assista ao vídeo completo no YouTube](https://www.youtube.com/watch?v=7FhvYs1fNTE).
 
 ### Contribuições
 
@@ -498,7 +500,9 @@ No aspecto técnico, o sistema foi desenvolvido com tecnologias modernas, como T
 
 ### Demonstração do Projeto
 
-[Assista ao vídeo no YouTube](https://www.youtube.com/watch?v=cXbXq8ZWd0A).
+<img src="/docs/05_API.gif/" alt="Demonstração do Projeto" style="zoom: 150%;" />
+
+[Assista ao vídeo completo no YouTube](https://www.youtube.com/watch?v=cXbXq8ZWd0A).
 
 ### Contribuições
 
@@ -602,7 +606,9 @@ Para o gerenciamento do projeto, utilizamos a metodologia Scrum, com integraçã
 
 ### Demonstração do Projeto
 
-[Assista ao vídeo no YouTube](https://youtu.be/C3ySkVufNRI).
+<img src="/docs/06_API.gif/" alt="Demonstração do Projeto" style="zoom: 150%;" />
+
+[Assista ao vídeo completo no YouTube](https://youtu.be/C3ySkVufNRI).
 
 ### Contribuições
 
