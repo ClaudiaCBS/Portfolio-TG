@@ -96,7 +96,7 @@ No 6º semestre da faculdade, fui monitora da disciplina Programação Linear co
 | [3º Semestre](https://github.com/ClaudiaCBS/API_03_SEMESTE) | 2023 - 2º Semestre | Ionic            |
 | [4º Semestre](https://github.com/ClaudiaCBS/API_04_SEMESTE) | 2024 - 1º Semestre | Siatt            |
 | [5° Semestre](https://github.com/ClaudiaCBS/API_05_SEMESTE) | 2024 - 2° Semestre | Kersys           |
-| [6° Semestre](https://github.com/FATEC-FULLSTACK/API6)      | 2025 - 1° Semestre | Dom Rock         |
+| [6° Semestre](https://github.com/ClaudiaCBS/API_06_SEMESTE) | 2025 - 1° Semestre | Dom Rock         |
 
 <br />
 
@@ -555,7 +555,7 @@ Por fim, para além do desenvolvimento técnico, também trabalhei na criação 
 
 <Div align="justify" >
 
-> [Link para a API do 6º Semestre](https://github.com/FATEC-FULLSTACK/API6)
+> [Link para a API do 6º Semestre](https://github.com/ClaudiaCBS/API_06_SEMESTE)
 
 
 No 6º semestre do curso, desenvolvemos a Plataforma de Treinamento de IA, um projeto em parceria com a empresa Dom Rock, uma empresa especializada em Inteligência Artificial e análise de dados. O problema identificado foi que cuidadores de pessoas acometidas por Alzheimer frequentemente buscam orientação em modelos de linguagem (LLMs), mas não possuem meios confiáveis para verificar a precisão e segurança das respostas obtidas. Atualmente, quando um cuidador faz uma pergunta a esses modelos, não há garantias de que a orientação recebida seja clinicamente adequada, atualizada e segura para o paciente. Algumas respostas podem conter recomendações perigosas, informações obsoletas ou conselhos que não seguem os protocolos médicos estabelecidos. O desafio identificado pela empresa Dom Rock em parceria com neurocientistas foi o estabelecimento de um processo de validação humana para essas respostas geradas por LLMs antes que elas alcancem os cuidadores. A solução proposta é uma plataforma web onde pesquisadores podem enviar perguntas e comparar respostas de múltiplos modelos com base em critérios de coerência, veracidade científica e segurança clínica, contribuindo então para o treinamento contínuo dos sistemas via Aprendizado por Reforço com Feedback Humano (RLHF).
